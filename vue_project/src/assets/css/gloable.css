@@ -1,0 +1,32 @@
+html,
+body,
+#app {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    min-width: 1350px;
+}
+
+.el-breadcrumb {
+    margin-bottom: 10px;
+}
+
+.el-table {
+    margin-top: 10px;
+}
+
+.el-pagination {
+    margin-top: 10px;
+}
+
+.el-steps {
+    margin: 15px 0;
+}
+
+.el-step__title {
+    font-size: 13px;
+}
+
+.ql-editor {
+    min-height: 300px;
+}
